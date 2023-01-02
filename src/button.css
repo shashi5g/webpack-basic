@@ -1,0 +1,10 @@
+button {
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    border: 1px solid red;
+    background-color: azure;
+    color: #000;
+
+   
+}
